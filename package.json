@@ -8,6 +8,8 @@
     "@heroicons/react": "^2.1.1",
     "@nextui-org/react": "^2.2.9",
     "framer-motion": "^10.18.0",
+    "react-input-mask": "^2.0.4",
+    "react-native-camera": "^4.2.1",
     "typeface-poppins": "^1.1.13"
   }
 }

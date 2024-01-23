@@ -8,7 +8,7 @@ import {
   PlusIcon,
   CubeIcon,
   Cog8ToothIcon,
-} from "@heroicons/react/24/solid";
+} from "@heroicons/react/24/outline";
 
 const navLinks = [
   {
